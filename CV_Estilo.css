@@ -1,0 +1,61 @@
+@media (min-width:1200px){
+   .Perfil{
+        width: 80%;
+    }
+}
+
+*{
+    font-family: Roboto, system-ui;
+    
+    
+}
+.c-section_title{
+    background-image: linear-gradient(45deg, #101e79, #37cdd2);
+    color:white;
+    padding: 15px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    width: 500px;
+    box-shadow: 0 7px 20px rgba(100, 28, 2, 0.135);
+    box-align:center;   
+    
+  }
+
+.Perfil{
+    width: 800px;
+    font-size: 15px;
+    color:white;
+    border-radius: 25px;
+    background-color: rgb(112, 105, 105);
+    padding: 10px;
+    margin-top: 0px;
+    box-shadow: 0 7px 20px rgba(100, 28, 2, 0.135);
+    
+}
+
+.c-experience{
+    display: flex;
+    flex-wrap: nowrap ;
+    justify-content: space-evenly;
+    flex-direction: row;
+   
+    
+}
+#item_1, #item_2, #item_3{
+    list-style-type: none;
+    width: 300px;
+    background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+    box-shadow: 0 7px 20px rgba(100, 28, 2, 0.135);
+    width: 300 px;
+    font-size: 15px;   
+    border-radius: 25px;
+    padding: 10px;
+    color:white;
+}
+    
+
+
+
+
+  
